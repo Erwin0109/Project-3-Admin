@@ -9,7 +9,7 @@ scratch. This page gets rid of all links and provides the needed markup only.
   <meta name="viewport" content="width=device-width, initial-scale=1">
   <meta http-equiv="x-ua-compatible" content="ie=edge">
 
-  <title>Project 3 Admin Page</title>
+  <title>Project 4 Laravel</title>
 
   <!-- Font Awesome Icons -->
   <link rel="stylesheet" href="{{url('public')}}/plugins/fontawesome-free/css/all.min.css">
